@@ -1,0 +1,4 @@
+﻿  ConsoleApplication34.cpp
+e:\бгуир\ооп\лаба1\consoleapplication34\header.h(173): warning C4297: Array::~Array: ожидается, что функция не будет выдавать исключения, но она это делает
+  e:\бгуир\ооп\лаба1\consoleapplication34\header.h(173): note: деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+  ConsoleApplication34.vcxproj -> E:\БГУИР\ООП\Лаба1\Debug\ConsoleApplication34.exe
